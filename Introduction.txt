@@ -1,0 +1,11 @@
+rails server -b $IP -p $PORT
+
+command to run server on cloud9
+
+the app directory has the models, vies and the controllers
+
+enforces separation between the domain logic also called as business
+logic and the presentation logic.
+
+Domain logic - models for things like users, articles and products and 
+
